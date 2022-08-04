@@ -5,5 +5,8 @@ public class GitHubKullanimiDeneme_1 {
         System.out.println("Hello world");
         System.out.println("That is it");
         System.out.println("Welcome to Altay branch");
+
+
+        System.out.println("Altay branch inde ortak class da değişiklik yaptim");
     }
 }
